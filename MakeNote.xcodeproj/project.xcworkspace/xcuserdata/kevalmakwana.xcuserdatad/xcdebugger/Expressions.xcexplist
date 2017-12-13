@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DetailViewController.goToNotes(Any) -&gt; ():DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationController">
+            </PersistentString>
+            <PersistentString
+               value = "recentlyAddedRowId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.tableView(UITableView, cellForRowAt : IndexPath) -&gt; UITableViewCell:ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailViewController.viewDidLoad() -&gt; ():DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "noteNameTextField.text">
+            </PersistentString>
+            <PersistentString
+               value = "selectedNoteName">
+            </PersistentString>
+            <PersistentString
+               value = "recentlyAddedRowId">
+            </PersistentString>
+            <PersistentString
+               value = "result2?.next()">
+            </PersistentString>
+            <PersistentString
+               value = "databasePath">
+            </PersistentString>
+            <PersistentString
+               value = "textView.text ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.prepare(for : UIStoryboardSegue, sender : Any?) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "databasePath">
+            </PersistentString>
+            <PersistentString
+               value = "self.selectedNote">
+            </PersistentString>
+            <PersistentString
+               value = "recentlyAddedRowId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.load() -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+            <PersistentString
+               value = "databasePath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapViewController.viewDidLoad() -&gt; ():MapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "longitudes[0]">
+            </PersistentString>
+            <PersistentString
+               value = "latitudes.count">
+            </PersistentString>
+            <PersistentString
+               value = "latitudes[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.tableView(UITableView, didSelectRowAt : IndexPath) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedNote">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.addNote() -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+            <PersistentString
+               value = "recentlyAddedRowId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
